@@ -5,3 +5,5 @@ display and read result
 no GUI
 numeric inputs and non-zero divisor for first version
 
+RUN: python3 calculator.py
+
