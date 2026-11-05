@@ -1,1 +1,3 @@
 keep-demo.log
+.venv/
+.pytest_cache/
