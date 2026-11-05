@@ -7,3 +7,6 @@ numeric inputs and non-zero divisor for first version
 
 RUN: python3 calculator.py
 
+chmod +x run.sh
+./run.sh
+Stop with crtl+C
