@@ -11,7 +11,7 @@ def multiply(a, b):
 def divide(a, b):
 	return a / b
 
-def CircleArea(r):
+def circleArea(r):
 	if r >= 0:
 		return 3.14*r*r
 	else:
