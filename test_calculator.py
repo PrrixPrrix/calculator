@@ -9,8 +9,8 @@ def test_divide():
 def test_multiply():
 	assert multiply(3, 2) == 6
 
-def test_substract():
-	assert substract(6, 3) == 3
+def test_subtract():
+	assert subtract(6, 3) == 3
 
 def test_divide_uneven():
 	a, b = 5, 2
